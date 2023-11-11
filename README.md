@@ -119,11 +119,11 @@ On the other hand, to achieve same result, the command(s) will have to be piped 
 
 Like most other commands, options like flags or plain text could be passed to the console to execute the needed output. the console shell recognizes these options when a separated by a single space.
 
-        user@Pharmakarios MINGW64 ~/Desktop/AirBnB_clone (main)
+        user@michealken30 MINGW64 ~/Desktop/AirBnB_clone (main)
         ./console.py
         (hbnb) create BaseModel
         32d2ff7a-96c1-a11f-80b3-63732d6e7883
-       user@Pharmakarios MINGW64 ~/Desktop/AirBnB_clone (main)
+       user@michealken30 MINGW64 ~/Desktop/AirBnB_clone (main)
        ./console.py
 
 # Commands and usage: <hr>
